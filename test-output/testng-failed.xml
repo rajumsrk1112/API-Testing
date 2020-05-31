@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Projects.Testing">
+        <methods>
+          <include name="ReqRes"/>
+        </methods>
+      </class> <!-- Projects.Testing -->
+      <class name="Projects.TestCaseRun">
+        <methods>
+          <include name="RestAPI"/>
+        </methods>
+      </class> <!-- Projects.TestCaseRun -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

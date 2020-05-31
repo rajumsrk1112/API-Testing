@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42528" started-at="2020-05-31T16:11:08 IST" finished-at="2020-05-31T16:11:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42528" started-at="2020-05-31T16:11:08 IST" finished-at="2020-05-31T16:11:51 IST">
+      <class name="Projects.Testing">
+        <test-method status="PASS" signature="ReqRes()[pri:0, instance:Projects.Testing@7ce6a65d]" name="ReqRes" duration-ms="21498" started-at="2020-05-31T16:11:29 IST" finished-at="2020-05-31T16:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReqRes -->
+      </class> <!-- Projects.Testing -->
+      <class name="Projects.TestCaseRun">
+        <test-method status="PASS" signature="RestAPI()[pri:0, instance:Projects.TestCaseRun@4abdb505]" name="RestAPI" duration-ms="20935" started-at="2020-05-31T16:11:08 IST" finished-at="2020-05-31T16:11:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPI -->
+      </class> <!-- Projects.TestCaseRun -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
