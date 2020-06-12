@@ -1,0 +1,622 @@
+Guidelines for Choosing Answers
+
+1) Shorter is better
+
+One of the major concepts that the GMAT tests is conciseness. As a result, short, clear constructions are generally preferably to long and wordy ones.
+
+That does not, however, mean that the shortest answer – or even the second-shortest answer – will consistently be right. There are many exceptions to this rule, and you must judge each question individually.
+
+If you are unable to identify what concept a question is testing, however, working from the shortest answer to the longest can help you stay focused and work systematically. Likewise, if you are stuck between two answers, length can be a helpful “tip” factor to take into account.
+
+ 
+
+2) Avoid gerunds (-ING words), especially BEING
+
+As a general rule, conjugated verbs are preferable to gerunds because the latter tend to create wordy and awkward constructions as well as fragments. Answers that include the gerund being are almost never correct and can often be eliminated immediately.
+
+In addition, when the noun form of a word is more idiomatic than the gerund, the noun should be used. The GMAT frequently uses gerunds this way in incorrect answers. For example:
+
+Incorrect: The bacterium Pseudomonas is useful because of its being able to aid in the decomposition of many organic compounds.
+
+Correct: The bacterium Pseudomonas is useful because of its ability to aid in the decomposition of many organic compounds. 
+
+ 
+
+3) Avoid the passive voice
+
+In a passive construction, the normal order of subject and object is flipped.
+
+Active: x does y.
+
+Passive: y is done by x.
+
+You can also think of this rule as an offshoot of #1: by nature, passive constructions are always wordier and frequently more awkward than active ones.
+
+ 
+
+I. Sentences and Fragments
+
+Every sentence must contain a subject and a main verb that corresponds to the subject. Any sentence that lacks a main verb is a fragment.
+
+ 
+
+A. Missing Main Verb
+
+1. A verb that ends in –ING cannot act as a verb. A statement that contains only an –ING word cannot be a sentence.
+
+Incorrect: After her retirement from international competition, tennis champion Maud Molesworth becoming one of the first women in Australia to coach tennis professionally.
+
+Correct: After her retirement from international competition, tennis champion Maud Molesworth became one of the first women in Australia to coach tennis professionally.
+
+2. A passive construction must contain a form of the verb to be.
+
+Incorrect: Though the scientific method often presented as a fixed sequence of steps, it actually represents a set of general principles.
+
+Correct: Though the scientific method is often presented as a fixed sequence of steps, it actually represents a set of general principles.
+
+ 
+
+B. Missing Independent Clause
+
+A clause is a phrase that contains both a subject and a verb. A clause can be independent (complete sentence) or dependent (unable to stand on its own as a sentence).
+
+1. Every sentence must contain a clause that can stand on its own as a sentence.
+
+Incorrect: Retiring from international competition in 1937, and tennis champion Maud Molesworth became one of the first women in Australia to coach tennis professionally.
+
+Correct: Retiring from international competition in 1937, tennis champion Maud Molesworth became one of the first women in Australia to coach tennis professionally.
+
+2. A phrase that begins with a subordinating conjunction (e.g. because, although, when, unless, until) is a clause, and an -ING word should not follow the conjunction. A subject + conjugated verb should be used instead.
+
+Incorrect: The company has recently announced that it will soon accept only Visa for credit card purchases, although traditionally accepting both Visa and American Express.
+
+Correct: The company has recently announced that it will soon accept only Visa for credit card purchases, although it has traditionally accepted both Visa and American Express.
+
+3. Clauses that begin with “w-words” (relative pronouns) such as which, who(se), and where are always dependent.
+
+When a clause begins with a “w-word,” that word is the subject of the verb that follows. On the GMAT, these clauses are often inserted to “remove” a verb from its true subject and create fragments. To turn the fragment into a sentence, the “w-word” must be eliminated.
+
+Incorrect: After her retirement from international competition, tennis champion Maud Molesworth, who became one of the first women in Australia to coach tennis professionally.
+
+Correct: After her retirement from international competition, tennis champion Maud Molesworth became one of the first women in Australia to coach tennis professionally.
+
+ 
+
+C. Comma Splices and Semicolons (tested infrequently)
+
+ A comma should never be placed between two independent clauses. Use a semicolon or comma + coordinating (FANBOYS) conjunction: for, and, nor, but, or, yet, so.
+
+Incorrect: Many athletes at the Olympic Trials insist that they avoid all performance-enhancing substances, they do not share the same confidence about the competition they could soon face.
+
+Correct: Many athletes at the Olympic Trials insist that they avoid all performance-enhancing substances; they do not share the same confidence about the competition they could soon face.
+
+Correct: Many athletes at the Olympic Trials insist that they avoid all performance-enhancing substances, but they do not share the same confidence about the competition they could soon face.
+
+ A semicolon should only be placed between independent clauses. It is incorrect to place one between an independent clause and a dependent clause.
+
+Incorrect: Many athletes at the Olympic Trials insist that they avoid all performance-enhancing substances; but do not share the same confidence about the competition they could soon face.
+
+Correct: Many athletes at the Olympic Trials insist that they avoid all performance-enhancing substances; they do not share the same confidence about the competition they could soon face.
+
+ 
+
+II. Non-Essential Clauses
+
+Non-essential clauses are set off by commas (one before, one after) and, as their name suggests, are not essential to the meaning of a sentence. When they are crossed out, the sentence still makes sense.
+
+Non-essential clauses are often used to distract from errors. When they are removed, the error is revealed.
+
+Incorrect: The body’s circadian rhythms, which are responsible for controlling sleep cycles and which function on a 24-hour clock, and they are more sensitive to light at night—even when a person’s eyes are closed.
+
+Incorrect: The body’s circadian rhythms, which are responsible for controlling sleep cycles and which function on a 24-hour clock, and they are more sensitive to light at night—even when a person’s eyes are closed.
+
+Correct: The body’s circadian rhythms, which are responsible for controlling sleep cycles and which function on a 24-hour clock, are more sensitive to light at night—even when a person’s eyes are closed.
+
+Note that non-essential clauses may also be included for no other reason than to make sentences long and complicated, and to distract from errors elsewhere in a sentence.
+
+Tip: when you use paper-based prep materials, you should practice drawing a line through non-essential clauses in order to train yourself to eliminate them mentally on the actual exam.
+
+ 
+
+III. Pronouns
+
+A. Pronoun Agreement
+
+The word to which a pronoun refers is known as its antecedent or referent. Pronouns must agree with their referents in number: singular pronouns must have singular referents, and plural pronouns must have plural referents.
+The most frequently tested pronouns are it/its (sing.) and they/their/them (pl.).
+The alternating use of it and they in various answer choices indicates that a question is testing pronoun agreement. Start by determining whether the referent is singular or plural, and eliminate all options that do not fit.
+Example: 
+
+Computers began as tools of business and research, designed to automate tasks such as math and information retrieval, but it is today a tool of personal communication, connecting us not only to information but to one another.
+
+(A) it is today a tool
+(B) today this is a tool
+(C) today these tools
+(D) which today it is a tool
+(E) today they are tools
+
+The most logical referent of the pronoun it (sing.) is the plural noun computers (pl.). (A), (B), and (D) all contain singular pronouns and can be eliminated. (C) creates a fragment, and (E) is correct.
+
+Know:
+
+Collective nouns = singular. Collective nouns are nouns that refer to groups of people, e.g. agency, company, corporation, institution, university.
+Each and every are singular.
+ 
+
+B. Missing/Ambiguous Referents
+
+1. If there are multiple nouns that a pronoun could agree with, the sentence must be rewritten to specify which noun is the true referent.
+
+Incorrect: Some dog breeders are breeding English bull dogs with longer faces in order to prevent the breathing problems that consistently plague the breed, but it is unclear whether people will continue to find bull dogs appealing if they lose their famously wrinkled faces.
+
+Correct: Some dog breeders are breeding English bull dogs with longer faces in order to prevent the breathing problems that consistently plague the breed, but it is unclear whether people will continue to find bull dogs appealing if the animals lose their famously wrinkled faces.
+
+2. Nouns may sometimes also be missing referents.
+
+Incorrect: Gecko lizards hail from all over the world, but most of the ones they sell in pet stores in the United States are bred in captivity.
+
+Correct: Gecko lizards hail from all over the world, but most of the ones sold in pet stores in the United States are bred in captivity.
+
+Know:
+
+This/that, these/those not followed by a noun = wrong.
+Which must be directly preceded by its referent, e.g. Smallpox is one of two infectious diseases to have been eradicated, the other being rinderpest, which was declared eradicated in 2011.
+That = no comma, which = comma, e.g. The stocks that fell last week had been predicted to rise, NOT The stocks which fell last week had been predicted to rise. The GMAT tests this rule frequently.
+ 
+
+ IV. Relative Pronouns
+ 
+
+ 
+
+Who(m) = people
+Which, that = things
+Whose = people + things
+Where = places
+When = times
+Preposition + which can be used as an alternative to where and when.
+ 
+
+Be particularly on the lookout for errors involving where. Although this pronoun is often used in everyday speech to refer to books and times, that usage is incorrect. Note that when errors with where involve time, they can be corrected with either when or in which.
+
+Incorrect: The contemporary environmental movement began in 1962, the year where Rachel Carson’s book Silent Spring revealed the dangers of pesticides.
+
+Correct: The contemporary environmental movement began in 1962, the year where/in which Rachel Carson’s book Silent Spring revealed the dangers of pesticides.
+
+Whereby is used to indicate method, and is often used in the context of systems or processes. Although constructions including this word may sound awkward, there is nothing inherently incorrect about them.
+
+Correct: Bats can perceive and stalk their prey in complete darkness by using a system whereby ultrasonic sounds produce echoes that identify the animal or insect’s location.
+
+ 
+
+V. Subject-Verb Agreement
+
+Singular verbs end in –S; plural verbs do not end in –S, e.g. he speaks = singular, they speak = plural.
+
+One effective strategy for approaching these question is to scan answer choices for differences in number. When some answers contain singular verbs and other contain plural verbs, the question is testing subject-verb agreement.
+
+Start by identifying the subject of the relevant verb, determine whether it is singular or plural, and eliminate all answers that do not fit.
+
+Remember that verbs can be separated from their subjects in a variety of ways, including non-essential clauses and prepositional phrases, so do not assume that the noun immediately before the verb is the subject.
+
+Example:
+
+Most experimental results do not produce large changes in human understanding; improvements in theoretical scientific understanding is typically the result of a gradual process of development over time, sometimes across different domains of science.
+
+(A) improvements in theoretical scientific understanding is typically the result of
+(B) improvements in theoretical scientific understanding typically results from
+(C) improvements in theoretical scientific understanding, which typically result from
+(D) improvements in theoretical scientific understanding are typically the result of
+(E) improvements in theoretical scientific understanding has typically resulted from
+
+The subject of the verb is (singular) is improvements (plural). The correct answer must therefore contain a plural verb. (A), (B), and (E) all contain singular verbs and can thus be eliminated immediately.
+
+Of the remaining answers, (C) creates a fragment and can be eliminated, leaving (D).
+
+Know:
+
+Compound nouns (two singular nouns joined by and) = plural.
+When neither…nor is paired with a verb, the verb agrees with the noun after nor.
+And to reiterate:
+
+Collective nouns = singular
+Each and every = singular.
+ 
+
+VI. Verb Tense and Form 
+
+A. Present perfect vs. simple past vs. past perfect
+
+1. Present perfect = has/have + past participle
+
+Actions that began in the past and continues into the present. Tip-offs = for & since.
+
+Incorrect: The company, which accepted both American Express and Visa for credit card purchases since its founding, recently announced that it would soon accept only Visa.
+
+Correct: The company, which has accepted both American Express and Visa for credit card purchases since its founding, recently announced that it would soon accept only Visa.
+
+2. Simple past = simple past form only (e.g. went, drank, chose), indicates a finished action in the past
+
+Incorrect: In 2012, the company has announced that it would sever its longstanding relationship with American Express and accept Visa exclusively for credit card purchases at its stores.
+
+Correct  In 2012, the company announced that it would sever its longstanding relationship with American Express and accept Visa exclusively for credit card purchases at its stores.
+
+Note: “To have + past participle” is a grammatically acceptable alternative to the simple past, e.g. Stocks are reputed to have fallen = It is reputed that stocks fell.
+
+3. Past perfect = had + past participle
+
+When a sentence refers to two finished actions in the past, the present perfect can be used to refer to the action that came first.
+
+Incorrect: Recently, the company took the final step in severing its longstanding relationship with American Express and had begun accepting Visa exclusively for credit card purchases at its stores.
+
+Correct: Recently, the company took the final step in severing its longstanding relationship with American Express and began accepting Visa exclusively for credit card purchases at its stores.
+
+Note: by and by the time are often tip-offs that the past perfect is required.
+
+Correct: By the early years of the twentieth century, Chicago had become capable of maintaining its population and was no longer dependent on rural areas for a steady stream of new inhabitants.
+
+ 
+
+B. Future
+
+Use of the future (will + verb) is typically based on context, e.g. verbs such as predict, estimate, or hypothesize.
+
+Incorrect: Market experts predict that stocks fall over the next several months, having recently reached historic highs.
+
+Correct:  Market experts predict that stocks will fall over the next several months, having recently reached historic highs.
+
+ 
+
+C. Subjunctive
+
+Used to indicate importance, necessity, demands, and suggestions.
+In the present, no –S on the end of third-person singular verbs (e.g. it go). The subjunctive form of to be is be; the subjunctive of to have is have.
+In the past, were is used with both singular and plural.
+Present: 
+
+Incorrect: Even in the Internet age, it is important that traditional copyright protections are not abolished because they uphold the idea that people should be rewarded for original work.
+
+Correct: Even in the Internet age, it is important that traditional copyright protections not be abolished because they uphold the idea that people should be rewarded for original work.
+
+Past: 
+
+Incorrect: If the traditional concept of copyright protection was abolished, then the idea that people should be rewarded for original work would be seriously jeopardized.
+
+Correct: If the traditional concept of copyright protection were abolished, then the idea that people should be rewarded for original work would be seriously jeopardized.
+
+ 
+
+D. Sequence of tenses: “if” (hypothetical) clauses vs. main clauses
+
+If Clause
+
+If X happens/Should X happen
+If X happened/If X were to happen
+If X had happened/Had X happenedMain Clause
+
+Y occurs, Y will occur
+Y would occur
+Y would have occurred
+ 
+
+VII. Faulty Comparisons
+
+A. People vs. Things
+
+Compare people to people and things to things. Note that correct answers often replace a noun in the comparison with the pronoun phrase that of (sing.) or those of (p.).
+
+Incorrect: While Thackeray and Dickens were both renowned as authors during the nineteenth century, today the novels of Dickens are more widely read than Thackeray.
+
+Correct: While Thackeray and Dickens were both renowned as authors during the nineteenth century, today the novels of Dickens are more widely read than those of Thackeray
+
+Note that possessive constructions can be formed in a variety of ways: the novels of Thackeray = those of Thackeray = Thackeray’s novels = Thackeray’s. Any of these options can be used, regardless of how the other side of the comparison is constructed.
+
+ 
+
+B. Non-Equivalent Things
+
+Incorrect: Unlike a train, the length of a tram is usually limited to one or two cars, which may run either on train tracks or directly on the street.
+
+Correct: Unlike a train, a tram is usually limited to one or two cars, which may run either on train tracks or directly on the street.
+
+ 
+
+C. Comparative Phrases
+
+Comparative phrases can also be formed awkwardly or un-idiomatically. Correct answers tend to include like and unlike, whereas incorrect answers tend to be much wordier.
+
+Errors involving comparative phrases may also be combined with errors testing comparisons themselves.
+
+Incorrect: Contrasting with Thackeray, who fell out of favor during the twentieth century, the novels of Dickens have enjoyed uninterrupted popularity since they first appeared.
+
+Correct:  Unlike the novels of Thackeray, which fell out of favor during the twentieth century, the novels of Dickens have enjoyed uninterrupted popularity since they first appeared.
+
+ 
+
+D. Like vs. As
+
+Like = compare nouns: x is like y
+As = compare clauses (clause includes a subject + verb)
+
+Incorrect: Health insurance, as other forms of insurance, allows people to collectively pool their risk of incurring medical expenses.
+
+Correct: Health insurance, like other forms of insurance, allows people to collectively pool their risk of incurring medical expenses.
+
+Incorrect: Health insurance allows people to collectively pool their risk of incurring medical expenses, like other forms of insurance do.
+
+Correct: Health insurance allows people to collectively pool their risk of incurring medical expenses, as other forms of insurance do.
+
+ 
+
+VIII. Amounts: Countable vs. Non-Countable
+ 
+
+
+Countable (with pl. nouns)
+Number
+More 
+Fewer
+Non-countable (with sing. nouns)
+Amount
+Much
+Less
+Incorrect: The Georges Bank seamounts rise thousands of feet from the ocean floor and are home to a large amount of deep-sea corals and sponges, many of which are unknown to science.
+
+Correct: The Georges Bank seamounts rise thousands of feet from the ocean floor and are home to a large number of deep-sea corals and sponges, many of which are unknown to science.
+
+ 
+
+IX. Modification
+
+Rule: place modifiers as close as possible to the words or phrases they modify.
+
+A. Dangling Modifiers
+
+When a sentence contains an introductory clause that describes (modifies) but does not name the subject, the subject must follow. Otherwise, the modifier is dangling.
+
+Incorrect: Among the most important incubators of the ocean’s ecosystem, food and shelter are provided by coral reefs to more than a quarter of all marine life.
+
+What is among the most important incubators of the ocean’s ecosystem? Coral reefs. So coral reefs, the subject, must follow the comma.
+
+Correct: Among the most important incubators of the ocean’s ecosystem, coral reefs provide food and shelter to more than a quarter of all marine life.
+
+ 
+
+B. Misplaced Modifiers
+
+Misplaced modifiers are created when a modifier is placed next to a word or phrase other than the one it is intended to modify, creating an illogical or even absurd meaning.
+
+Misplaced modifiers can involve either single words or longer phrases.
+
+Incorrect: Stocks, which have been at historic lows since the start of the year, are expected sharply to climb beginning next quarter.
+
+Correct: Stocks, which have been at historic lows since the start of the year, are expected to climb sharply beginning next quarter.
+
+Note that which must refer to the noun immediately preceding it (before the comma). If it does not, a misplaced modifier is created.
+
+Incorrect: Stocks are expected to climb beginning next quarter, which have been at historic lows since the start of the year.
+
+Correct: Stocks, which have been at historic lows since the start of the year, are expected to climb beginning next quarter.
+
+ 
+
+X. Parallelism
+
+A. Lists
+
+Many parallelism questions test lists of three items. All the items should be presented in the same format, e.g. noun, noun, noun; verb, verb, verb; gerund, gerund, gerund.
+
+To simplify parallelism questions, start by focusing on the first word of each item.
+
+Incorrect: Painting outdoor scenes, emphasizing the interplay of light and dark, and to convey a sense of immediacy were all important characteristics of the Impressionist movement.
+
+Correct: Painting outdoor scenes, emphasizing the interplay of light and dark, and conveying a sense of immediacy were all important characteristics of the Impressionist movement.
+
+The construction within each item must also be consistent, e.g. “noun + preposition + noun.”
+
+Incorrect: A focus on outdoor scenes, an emphasis on the interplay of light and dark, and an impression of being immediate were all important characteristics of the Impressionist movement.
+
+Correct: A focus on outdoor scenes, an emphasis on the interplay of light and dark, and an impression of immediacy were all important characteristics of the Impressionist movement.
+
+ 
+
+B. Phrases
+
+The GMAT also tests two-part parallel structure – two items joined by a conjunction such as and or but. These questions can be appear in many guises, but there are patterns.
+
+1. Constructions with that (GMAT favorite)
+
+Incorrect: The Thirty Years War, a political and religious conflict that lasted from 1618 until 1648 and pitting Protestants against Catholics throughout the Holy Roman Empire, left destruction across wide swaths of Europe.
+
+Correct: The Thirty Years War, a political and religious conflict that lasted from 1618 until 1648 and that pitted Protestants against Catholics throughout the Holy Roman Empire, left destruction across wide swaths of the Europe.
+
+2. Prepositions
+
+Incorrect: Known for her musical compositions as well as for her poems and letters, Hildegard of Bingen was just as renowned in the twelfth century as the twentieth.
+
+Correct: Known for her musical compositions as well as for her poems and letters, Hildegard of Bingen was just as renowned in the twelfth century as in the twentieth.
+
+3. Verbs
+
+Incorrect: Although Voltaire wrote a number of tragedies and believed he would be remembered as a dramatist, his theatrical works are today less well-known than his philosophical novels do.
+
+Correct: Although Voltaire wrote a number of tragedies and believed he would be remembered as a dramatist, his theatrical works are today less well-known than his philosophical novels are.
+
+ 
+
+XI. Word Pairs
+
+Word pairs (or correlative conjunctions) are pairs of words or phrases that must always be used together.
+
+Not only…but also
+As…as
+More/less…than
+Between…and
+So/such…that
+Just as…so
+Note that only half of a word pair is likely to be included in the underlined portion of a sentence. To identify that a question is testing word pairs, you must often rely on information in the non-underlined section.
+
+Incorrect: The Hale–Bopp comet received so much media coverage, becoming one of the most highly observed astronomical bodies in history.
+
+Correct: The Hale–Bopp comet received so much media coverage that it became one of the most highly observed astronomical bodies in history.
+
+ 
+
+XII. Redundancy
+
+A. Synonyms
+
+Incorrect: Radio stations were initially established for the first time by radio equipment manufacturers and retailers who offered programs in order to sell more radios to consumers.
+
+Correct: Radio stations were initially established by radio equipment manufacturers and retailers who offered programs in order to sell more radios to consumers.
+
+The GMAT is particularly fond of redundancies involving increasing and decreasing.
+
+Incorrect: Economists predict that over the next several months, stocks will increase by more than a 40% rise, offsetting a series of recent losses.
+
+Correct: Economists predict that over the next several months, stocks will increase by more than 40%, offsetting a series of recent losses.
+
+ 
+
+B. Double Conjunctions
+
+Two consecutive clauses should not both contain conjunctions.
+
+Incorrect: Because it is always possible that new and potentially contradictory evidence will be discovered, so no scientific theory can ever be considered final.
+
+Correct: Because it is always possible that new and potentially contradictory evidence will be discovered, no scientific theory can ever be considered final. 
+
+Correct: It is always possible that new and potentially contradictory evidence will be discovered, so no scientific theory can ever be considered final.
+
+ 
+XIII. Whether vs. If vs. That
+
+Use whether to indicate uncertainty, or to indicate/imply the presence of alternatives.
+
+With phrases involving “the question,” whether should always be used.
+
+Incorrect: The Schengen accord on freedom of movement for members of the European Union has had limited success, raising the question of if the bloc’s frontiers should be policed by a European border control force.
+
+Correct: The Schengen accord on freedom of movement for members of the European Union has had limited success, raising the question of whether the bloc’s frontiers should be policed by a European border control force.
+
+Use that when only one possibility is presented.
+
+Incorrect: The country’s court is examining allegations of irregularities in the counting of postal ballots during the election, for it is already clear whether rules on when those ballots should be counted and processed were often broken.
+
+Correct: The country’s court is examining allegations of irregularities in the counting of postal ballots during the election, for it is already clear that rules on when those ballots should be counted and processed were often broken.
+
+That vs. of + gerund
+
+The GMAT frequently and incorrectly replaces that after verbs with of + gerund.
+
+Incorrect: Many athletes at the Olympic Trials insist of their avoiding all performance-enhancing substances but do not share the same confidence about the competition they could soon face.
+
+Correct: Many athletes at the Olympic Trials insist that they avoid all performance-enhancing substances but do not share the same confidence about the competition they could soon face.
+
+ 
+
+XIV. Idioms
+
+Fixed phrases are known as idioms. There is no logical reason why these phrases evolved the way they did. As a result, you must answer them by ear.
+
+A. Prepositions
+
+Incorrect: After a lengthy review, officials have decided to proceed with a broad investigation toward accusations that the hospital submitted hundreds of millions of dollars in fraudulent claims.
+
+Correct: After a lengthy review, officials have decided to proceed with a broad investigation into accusations that the hospital submitted hundreds of millions of dollars in fraudulent claims.
+
+ 
+
+B. Commonly Confused Words
+
+Incorrect: Beads from beauty products and other microplastic debris are known to have a detrimental affect on fish and other creatures, and studies suggest that the chemicals can move up the food chain to humans.
+
+Correct: Beads from beauty products and other microplastic debris are known to have a detrimental effect on fish and other creatures, and studies suggest that the chemicals can move up the food chain to humans.
+
+ 
+
+C. To vs. –ING
+
+-ING words (gerunds and participles) are frequently switch with infinitives (the “to” form of a verb).
+
+Incorrect: Just as opponents of the old law criticized it for being outdated, so do opponents of the new law criticize it to be costly and ineffective.
+
+Correct: Just as opponents of the old law criticized it for being outdated, so do opponents of the new law criticize it for being costly and ineffective.
+
+Participles are often used to join clauses. The GMAT is prone to incorrectly replacing participles (-ING) form with infinitives.
+
+Incorrect: Coral reefs are among the most important incubators of the ocean’s ecosystem, to provide food and shelter to more than a quarter of all marine life.
+
+Correct:  Coral reefs are among the most important incubators of the ocean’s ecosystem, providing food and shelter to more than a quarter of all marine life.
+
+ 
+
+D. Gerund Replaces Noun
+
+When the noun form of a word is more idiomatic than the gerund, the noun should be used. The GMAT frequently uses gerunds this way in incorrect answers.
+
+Incorrect: The using of rapid brush strokes to create a sense of immediacy was among the most prominent characteristics of the Impressionist school of painting.
+
+Correct: The use of rapid brush strokes to create a sense of immediacy was among the most prominent characteristics of the Impressionist school of painting.
+
+ 
+
+E. Shorter Isn’t Better
+
+Although wordy constructions tend are more likely to be incorrect, the GMAT is also fond of condensing certain phrases in ways that, while not entirely wrong, are not entirely idiomatic either.
+
+Incorrect: Alpha Centauri is an alluring interstellar voyage target because it is the closest star system to our own, and because it could contain planets capable of supporting life.
+
+Correct: Alpha Centauri is an alluring target for an interstellar voyage because it is the closest star system to our own, and because it could contain planets capable of supporting life.
+
+ 
+
+Key Idioms:
+
+A means to + infinitive = a way of (doing something)
+A means of + noun = a form of
+
+Act like = act in a manner similar to
+Act as = act in the capacity of
+
+Between = compare two things
+Among = compare three or more things
+
+Due to = caused by. Note that this phrase is virtually always used incorrectly when it appears on the GMAT. Typically, answers containing because (of) or as a result (of) are correct.
+
+Regarded as, NOT regarded to be
+
+Try to, NOT try and
+
+Use such as, not like, to introduce examples
+
+A term “refers to” something; it cannot “be” something.
+
+Incorrect: The term Dickensian is something that is reminiscent of Dickens and his writings, such as poor social conditions or comically repulsive characters.
+Correct: The term Dickensian refers to something that is reminiscent of Dickens and his writings, such as poor social conditions or comically repulsive characters.
+
+ 
+
+You might also be interested in: 
+The Complete GMAT® Sentence Correction Guide
+
+
+
+
+
+“Which” vs. “that” and the GMAT, simplified
+
+
+
+How to use “which” on the GMAT®
+
+
+
+“Because” vs. “due to” and the GMAT
+
+
+
+Dangling modifiers, the GMAT, and the dangers of over-complication
+
+
+
